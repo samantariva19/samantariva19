@@ -1,16 +1,54 @@
-## Hi there 👋
+# 👋 Hi, I'm Samanta
 
-<!--
-**samantariva19/samantariva19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👩‍💻 CSE Student | Future Software Developer
 
-Here are some ideas to get you started:
+💻 Code • Create • Learn • Repeat  
+🌱 Exploring Python, Web Development & Technology  
+🚀 Turning ideas into projects, one step at a time  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 👩‍💻 About Me
+
+I'm a Computer Science and Engineering student passionate about technology, programming, and building meaningful projects. I enjoy learning new things and turning ideas into reality through code.
+
+- 🎓 CSE Student
+- 🌱 Currently learning Python & Web Development
+- 💡 Interested in Programming, Software Development & Technology
+- 🚀 Always learning and building new things
+- 🇧🇩 Based in Bangladesh
+
+---
+
+## 🛠️ Skills & Technologies
+
+### 💻 Programming Languages
+
+- C
+- Java
+- Python
+
+### 🌐 Web Development
+
+- HTML
+- CSS
+- JavaScript
+
+### 🔧 Tools
+
+- Git
+- GitHub
+- VS Code
+
+---
+
+## 🚀 My Goals
+
+✨ Build meaningful projects  
+✨ Improve my programming skills  
+✨ Learn modern technologies  
+✨ Grow as a Software Developer  
+
+---
+
+> ### 💫 Code • Create • Learn • Repeat 🚀
